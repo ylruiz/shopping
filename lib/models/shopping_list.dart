@@ -9,7 +9,7 @@ class ShoppingList {
     return {
       'id': (id == 0) ? null : id,
       'name': name,
-      'priority': priority,
+      'priority': priority
     };
   }
 }
